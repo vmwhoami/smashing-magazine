@@ -2,7 +2,7 @@
 
 The goal of this project is to build a heatmap of the Smashing magazine website
 
-> I learned  to think in terms of visual hierarchy, typography and design principles.
+> I learned to think in terms of visual hierarchy, typography and design principles.
 
 > Created a grayscale heat map of the website that indicates which elements have the greatest weight in the visual hierarchy.
 
@@ -30,7 +30,7 @@ This project covers the following HTML and CSS3 concepts
 
 ## Getting Started
 
-To get a local copy of the repository please run the following commands on your terminal:
+To get a local copy of the repository, please run the following commands on your terminal:
 
 ```
 $ cd <folder>
@@ -56,11 +56,10 @@ $ git clone https://github.com/acushlakoncept/smashing-magazine.git
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!
+Contributions issues and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/acushlakoncept/smashing-magazine/issues).
-
-## Show your support
+Check the [issues page](https://github.com/acushlakoncept/smashing-magazine/issues).
+Contributions## Show your support
 
 Give a ⭐️ if you like this project!
 
